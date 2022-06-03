@@ -1,8 +1,12 @@
 <div class="header">
-    <h1><a href="" style="cursor: pointer; color: white;">Aakash Gautam</a></h1>
-    <p class="subDesc">PhD student @ <a href="">University of Mumbai</a>, Switzerland</p>
+    <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
+    <p class="subDesc">PhD student @<a href="">University of Mumbai</a>, India</p>
     <p class="subDesc">Material Scientist, Physicist</p>
-    <p class="subDesc"><a href="">CV</a> &#8226; <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226; <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a></p>
+    <p class="subDesc">
+        <a href="">CV</a> &#8226;
+        <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226;
+        <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a>
+    </p>
 </div>
 
 ---
