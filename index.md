@@ -60,6 +60,13 @@ We do all of our work in the open and strive to organize our work in ways that a
 
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-**Digital:** Tonny Gabbar<br/>
-**Communities:** Russell Prime<br/>
-**Video and Events:** Gabrielle Santiago, Octavia Blake<br/>
+**Digital:** Tonny Gabbar <br>
+**Communities:** Russell Prime <br>
+**Video and Events:** Gabrielle Santiago, Octavia Blake <br>
+
+## Metadata
+
+| **Categories** |
+|-------------|
+|Dictionary|
+
