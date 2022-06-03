@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Ishita Pushkarna | Teaching</title>
   <link href='https://fonts.googleapis.com/css?family=EB Garamond' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
 </head>
