@@ -1,14 +1,3 @@
-<div class="header">
-    <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
-    <p class="subDesc">PhD student @<a href="">University of Mumbai</a>, India</p>
-    <p class="subDesc">Material Scientist, Physicist</p>
-    <p class="subDesc">
-        <a href="">CV</a> &#8226;
-        <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226;
-        <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a>
-    </p>
-</div>
-
 ---
 title: "Welcome to Dictioanry"
 summary: 'Welcome to Digital.gov. Learn more about what we&#39;re working on'
@@ -21,8 +10,19 @@ keywords: ["cassandra", "apache cassandra", "centos 7", "ubuntu 18.04", "databas
 license: CC BY-ND 4.0
 published: 2017-06-12
 modified: 2018-08-05
-
 ---
+
+<div class="header">
+    <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
+    <p class="subDesc">PhD student @<a href="">University of Mumbai</a>, India</p>
+    <p class="subDesc">Material Scientist, Physicist</p>
+    <p class="subDesc">
+        <a href="">CV</a> &#8226;
+        <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226;
+        <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a>
+    </p>
+</div>
+
 
 # Dictionary of Digital
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
