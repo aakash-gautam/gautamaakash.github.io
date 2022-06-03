@@ -1,47 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <link href='https://fonts.googleapis.com/css?family=EB Garamond' rel='stylesheet'>
-  <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
-  
-  <style>
-    * {
-  box-sizing: border-box;
-  text-decoration: none;
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
-}
-
-html{
-  font-family: open sans;
-  scroll-behavior: smooth;
-  line-height: 1.6;
-  background-color: white #ededed;
-  font-size: 16px;
-  color: #212121;
-}
-    div.header {
-  background-color: #17252A; #0c2a75
-}
-    
-    a {
-    color: #86a4c4;
-    text-decoration: none;
-}
-  </style>
-  
-</head>
-  
-<body>
-  <div class="header">
+<div class="header">
     <h1><a href="" style="cursor: pointer; color: white;">Aakash Gautam</a></h1>
     <p class="subDesc">PhD student @ <a href="">University of Mumbai</a>, Switzerland</p>
     <p class="subDesc">Material Scientist, Physicist</p>
     <p class="subDesc"><a href="">CV</a> &#8226; <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226; <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a></p>
-  </div>
-  
-  </body>
-  </html>
+</div>
 
 ---
 title: "Welcome to Dictioanry"
