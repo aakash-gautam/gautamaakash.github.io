@@ -3,6 +3,33 @@
 <head>
   <link href='https://fonts.googleapis.com/css?family=EB Garamond' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+  
+  <style>
+    * {
+  box-sizing: border-box;
+  text-decoration: none;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+html{
+  font-family: open sans;
+  scroll-behavior: smooth;
+  line-height: 1.6;
+  background-color: white #ededed;
+  font-size: 16px;
+  color: #212121;
+}
+    div.header {
+  background-color: #17252A; #0c2a75
+}
+    
+    a {
+    color: #86a4c4;
+    text-decoration: none;
+}
+  </style>
+  
 </head>
   
 <body>
@@ -87,3 +114,4 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 | **Categories** |
 |-------------|
 |Dictionary|
+|New|
