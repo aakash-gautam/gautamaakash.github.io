@@ -100,7 +100,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
  </p>
 <hr style="height:5px;border-width:0;background-color:#192538;">
 
-<div style="background-color: #192538; height: 50px;">
+<div style="background-color: #192538; height: 50px; border-radius: 10px;">
   <p>We do all of our work in the open and strive to organize our work in ways that allow others to participate.</p>
   
 </div>
