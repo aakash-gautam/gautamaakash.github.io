@@ -24,7 +24,7 @@ modified: 2018-08-05
 </div>
 
 
-<h1 align="" style="font-family: EB Garamond;font-size: 15%;">Dictionary of Digital</h1>
+<h1 align="" style="font-family: EB Garamond;font-size: 2vh;">Dictionary of Digital</h1>
 
 <hr style="height:6px;border-width:0;background-color:#192538;">
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
@@ -81,8 +81,8 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |New|
 
 <hr style="height:6px;border-width:0;background-color:#192538;">
- <p align="center" style="color:#283852;font-size:14px;"> Copyright 2022 by Aakash "Ash" Gautam. All Rights Reserved. </p>
- <p align="center" style="color:#283852;font-size:14px;">
+ <p align="center" style="color:#283852;font-size:16px;"> Developed by Aakash "Ash" Gautam. </p>
+ <p align="center" style="color:#283852;font-size:16px;">
   <a href="" target="_blank">About</a> &#8226;
   <a href="" target="_blank">Contact</a> &#8226;
   <a href="" target="_blank">Partners</a> &#8226;
