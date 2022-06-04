@@ -16,6 +16,7 @@ output: html_document
 
 <style type="text/css">
   body{
+  font-family: ER Garamond;
   font-size: 12pt;
 }
 </style>
