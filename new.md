@@ -80,12 +80,11 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |New|
 
 <hr style="height:6px;border-width:0;background-color:#192538;">
-<div style="background-color: #192538; color: white;">
- <p align="center"> Copyright 2022 by Aakash "Ash" Gautam. All Rights Reserved. </p>
- <p align="center">
+ <p align="center" style="color:#283852;font-size:12px;"> Copyright 2022 by Aakash "Ash" Gautam. All Rights Reserved. </p>
+ <p align="center" style="color:#283852;font-size:12px;">
   <a href="" target="_blank">About</a> &#8226
   <a href="" target="_blank">Contact</a> &#8226
   <a href="" target="_blank">Partners</a> &#8226
    <a href="" target="_blank">Extra</a>
  </p>
-</div>
+<hr style="height:6px;border-width:0;background-color:#192538;">
