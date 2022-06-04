@@ -80,7 +80,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |Dictionary|
 |New|
 
-<hr style="height:6px;border-width:0;background-color:#192538;">
+<hr style="height:5px;border-width:0;background-color:#192538;">
  <p align="center" style="color:#283852;font-size:16px;"> Developed by Aakash "Ash" Gautam. </p>
  <p align="center" style="color:#283852;font-size:16px;">
   <a href="" target="_blank">About</a> &#8226;
@@ -88,4 +88,4 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
   <a href="" target="_blank">Partners</a> &#8226;
    <a href="" target="_blank">Extra</a>
  </p>
-<hr style="height:6px;border-width:0;background-color:#192538;">
+<hr style="height:3px;border-width:0;background-color:#192538;">
