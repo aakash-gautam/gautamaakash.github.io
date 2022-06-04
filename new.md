@@ -24,7 +24,8 @@ modified: 2018-08-05
 </div>
 
 
-<h1 align="" style="font-family: EB Garamond;font-size: 34px;">Dictionary of Digital</h1>
+<h1 align="" style="font-family: EB Garamond;font-size: 15%;">Dictionary of Digital</h1>
+
 <hr style="height:6px;border-width:0;background-color:#192538;">
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
