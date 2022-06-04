@@ -13,14 +13,14 @@ modified: 2018-08-05
 ---
 
 <div>
-    <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
-    <p>PhD student @<a href="">University of Mumbai</a>, India</p>
-    <p>Material Scientist, Physicist</p>
-    <p>
-        <a href="">CV</a> &#8226;
-        <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226;
-        <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a>
-    </p>
+  <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
+  <p>PhD student @<a href="">University of Mumbai</a>, India</p>
+  <p>Material Scientist, Physicist</p>
+  <p>
+    <a href="">CV</a> &#8226;
+    <a href="https://scholar.google.com/citations?user=m2YGFxgAAAAJ" target="_blank">Google Scholar (↗)</a> &#8226;
+    <a href="https://g.co/kgs/XHXSaa" target="_blank">Google Search (↗)</a>
+   </p>
 </div>
 
 
@@ -82,9 +82,9 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 <hr style="height:6px;border-width:0;background-color:#192538;">
  <p align="center" style="color:#283852;font-size:14px;"> Copyright 2022 by Aakash "Ash" Gautam. All Rights Reserved. </p>
  <p align="center" style="color:#283852;font-size:14px;">
-  <a href="" target="_blank">About</a> &#8226
-  <a href="" target="_blank">Contact</a> &#8226
-  <a href="" target="_blank">Partners</a> &#8226
+  <a href="" target="_blank">About</a> &#8226;
+  <a href="" target="_blank">Contact</a> &#8226;
+  <a href="" target="_blank">Partners</a> &#8226;
    <a href="" target="_blank">Extra</a>
  </p>
 <hr style="height:6px;border-width:0;background-color:#192538;">
