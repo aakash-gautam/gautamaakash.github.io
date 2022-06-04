@@ -12,14 +12,6 @@ published: 2017-06-12
 modified: 2018-08-05
 ---
 
-body {
-    font-family: -apple-system,BlinkMacSystemFont,Rubik,"EB Garamond","Open Sans";
-    font-size: 14px;
-    line-height: 1.5;
-    color: #24292e;
-    background-color: #fff;
-}
-
 <div class="header" style="background-color: #17252A;">
     <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
     <p class="subDesc">PhD student @<a href="">University of Mumbai</a>, India</p>
@@ -33,6 +25,7 @@ body {
 
 
 <h1 align="center" style="font-family: EB Garamond">Dictionary of Digital</h1>
+<hr style="height:6px;border-width:0;background-color:#93b0fa;">
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
 And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
@@ -85,3 +78,5 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |-------------|
 |Dictionary|
 |New|
+
+ <hr style="height:6px;border-width:0;background-color:#93b0fa;">
