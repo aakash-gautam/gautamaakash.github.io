@@ -26,7 +26,8 @@ modified: 2018-08-05
 
 <h1 align="" style="font-family: EB Garamond;font-size: 4vh;">Dictionary of Digital</h1>
 
-<hr style="height:6px;border-width:0;background-color:#192538;">
+<hr style="height:5px;border-width:0;background-color:#192538;">
+
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
 And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
