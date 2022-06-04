@@ -80,3 +80,5 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |New|
 
  <hr style="height:6px;border-width:0;background-color:#93b0fa;">
+ <p style="align:center;"> Copyright 1999-2022 by Refsnes Data. All Rights Reserved. </p>
+ <p style="align:center;"> About &#8226 Contact &#8226 Partners &#8226 Extra </p>
