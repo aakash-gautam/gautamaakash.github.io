@@ -38,7 +38,7 @@ output: html_document
 <hr style="height:5px;border-width:0;background-color:#192538;">
 
 ## Table of contents
-- [1](#our-guiding-principles) 
+[1](#our-guiding-principles), [2](#metadata)
 
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
