@@ -37,6 +37,9 @@ output: html_document
 
 <hr style="height:5px;border-width:0;background-color:#192538;">
 
+## Table of contents
+- [Our Guiding Principles](#our-guiding-principles) 
+
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
 And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
