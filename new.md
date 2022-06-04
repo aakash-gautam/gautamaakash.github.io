@@ -12,7 +12,7 @@ published: 2017-06-12
 modified: 2018-08-05
 ---
 
-<div class="header">
+<div class="header" style="background-color: #17252A;">
     <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
     <p class="subDesc">PhD student @<a href="">University of Mumbai</a>, India</p>
     <p class="subDesc">Material Scientist, Physicist</p>
