@@ -24,8 +24,8 @@ modified: 2018-08-05
 </div>
 
 
-<h1 align="" style="font-family: EB Garamond;font-size: 24px;">Dictionary of Digital</h1>
-<hr style="height:6px;border-width:0;background-color:#93b0fa;">
+<h1 align="" style="font-family: EB Garamond;font-size: 34px;">Dictionary of Digital</h1>
+<hr style="height:6px;border-width:0;background-color:#192538;">
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
 And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
@@ -79,6 +79,13 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |Dictionary|
 |New|
 
- <hr style="height:6px;border-width:0;background-color:#93b0fa;">
- <p style="align:center;"> Copyright 1999-2022 by Refsnes Data. All Rights Reserved. </p>
- <p style="align:center;"> About &#8226 Contact &#8226 Partners &#8226 Extra </p>
+<hr style="height:6px;border-width:0;background-color:#192538;">
+<div style="background-color: #192538; color: white;">
+ <p align="center"> Copyright 2022 by Aakash "Ash" Gautam. All Rights Reserved. </p>
+ <p align="center">
+  <a href="" target="_blank">About</a> &#8226
+  <a href="" target="_blank">Contact</a> &#8226
+  <a href="" target="_blank">Partners</a> &#8226
+   <a href="" target="_blank">Extra</a>
+ </p>
+</div>
