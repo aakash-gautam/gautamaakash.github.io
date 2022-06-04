@@ -81,7 +81,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |New|
 
 <hr style="height:5px;border-width:0;background-color:#192538;">
- <p align="center" style="background-color:#192538; color:#283852; font-size:12px; padding: 10px 10px 10px 10px"> RETURN TO TOP </p>
+ <p align="center" style="background-color:#192538; color:white; font-size:12px; width:30%"> RETURN TO TOP </p>
  <p align="center" style="color:#283852;font-size:16px;"> Developed by Aakash "Ash" Gautam. </p>
  <p align="center" style="color:#283852;font-size:16px;">
   <a href="" target="_blank">About</a> &#8226;
