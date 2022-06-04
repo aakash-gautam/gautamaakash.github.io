@@ -12,6 +12,14 @@ published: 2017-06-12
 modified: 2018-08-05
 ---
 
+body {
+    font-family: -apple-system,BlinkMacSystemFont,Rubik,"EB Garamond","Open Sans";
+    font-size: 14px;
+    line-height: 1.5;
+    color: #24292e;
+    background-color: #fff;
+}
+
 <div class="header" style="background-color: #17252A;">
     <h1><a href="" style="cursor: pointer; color: #11AB75;">Aakash Gautam</a></h1>
     <p class="subDesc">PhD student @<a href="">University of Mumbai</a>, India</p>
@@ -24,14 +32,12 @@ modified: 2018-08-05
 </div>
 
 
-# Dictionary of Digital
+<h1 align="center" style="font-family: EB Garamond">Dictionary of Digital</h1>
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
 And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
-
-{{< box >}}
 
 ## Our Guiding Principles
 
@@ -58,8 +64,6 @@ Everything we do is informed by what our audience needs. We apply multiple metho
 ### 6. Work in the open
 
 We do all of our work in the open and strive to organize our work in ways that allow others to participate.
-
-{{< /box >}}
 
 **What our readers need:**
 
