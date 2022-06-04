@@ -94,7 +94,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 |New|
 
 <hr style="height:5px;border-width:0;background-color:#192538;">
- <p align="center" style="color:#283852;font-size:16px;"> Developed by Aakash "Ash" Gautam ❤️. </p>
+ <p align="center" style="color:#283852;font-size:16px;"> Developed by Aakash "Ash" Gautam ❤️ </p>
  <p align="center" style="color:#283852;font-size:16px;">
   <a href="" target="_blank">About</a> &#8226;
   <a href="" target="_blank">Contact</a> &#8226;
@@ -103,6 +103,6 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
  </p>
 <hr style="height:5px;border-width:0;background-color:#192538;">
 
-<div style="background-color: #192538; color: white; height: 50px; border-radius: 10px;">
-  <p align="center" style="padding: 20px;">We do all of our work in the open and strive to organize our work in ways that allow others to participate.</p>
+<div style="background-color: #192538; color: white; height: 50px; border-radius: 7px;">
+  <p align="center" style="padding: 10px;">We do all of our work in the open and strive to organize our work in ways that allow others to participate.</p>
 </div>
