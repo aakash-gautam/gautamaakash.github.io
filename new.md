@@ -10,6 +10,10 @@ keywords: ["cassandra", "apache cassandra", "centos 7", "ubuntu 18.04", "databas
 license: CC BY-ND 4.0
 published: 2017-06-12
 modified: 2018-08-05
+
+output:
+  html_document:
+    css: style.css
 ---
 
 <div>
